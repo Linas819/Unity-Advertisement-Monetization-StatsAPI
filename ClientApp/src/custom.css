@@ -1,0 +1,28 @@
+/* Provide sufficient contrast against white background */
+h1 {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.menuButton {
+  width: 150px;
+}
+
+.container {
+  display: flex;
+}
+
+.headerBar {
+  height: 10%;
+}
+
+.checkbox {
+  padding-left: 10px;
+}
+
+.ui.thin.left.sidebar {
+  width: 200px !important;
+}
